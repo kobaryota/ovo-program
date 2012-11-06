@@ -1,3 +1,5 @@
+##single計算機からopertion計算機にデータを持っていくプログラム
+
 #!/usr/bin/perl
 $Ddata = "/home/ryota/Desktop";##"/home/verausr/DATA_vera2txt_RESULT"; ##データが保存されている場所
 $Dido = "opertion";##"verausr@oper-irk:/home/verausr/koba";   ##データを移動させたい場所 
