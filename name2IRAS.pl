@@ -40,4 +40,3 @@ while ($line = <IN>)  {
 }
 close(IN);
 system("rm sample.txt");
-aaaa
