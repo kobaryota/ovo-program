@@ -9,5 +9,4 @@ send "2003!RK"
 mkdir /Network/Servers/milkyway.sci.kagoshima-u.ac.jp/Users/koba/Desktop/aa
 interact
 "
-1030
-aaa
+
